@@ -1,0 +1,1 @@
+Une agence gérant plusieurs sites web vient vers vous afin de réaliser une courte mission concernant uniquement l’utilisation du langage JavaScript. Cette mission consiste à dynamiser un espace commentaire afin de faire apparaître un nouveau commentaire directement dans la liste des commentaires au moment où on valide le formulaire, sans aucun rechargement de la page.
